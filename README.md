@@ -47,6 +47,6 @@ Not all browser support HLS or MPEG-DASH but may support the segments produced b
 we can enable playback of such media even if they are not supported natively in the browser.
 Along with new features or custom video control interface.
 
-[Video.js](https://videojs.com) is the most predominant JavaScript framework which supports claims and more.
+[Video.js](https://videojs.com) is the most predominant JavaScript framework which supports these features and more.
 
 [read more](docs/javascript.md)
